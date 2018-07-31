@@ -1,3 +1,17 @@
 #form{
   margin-left: 400px;
+};
+.container{
+  background-image: url('');
+}
+.jumbotron{
+  margin-left: 200px;
+  margin-right: 200px;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+
+}
+.jumbotron h1{
+  font-family: 'Fontdiner Swanky', cursive;
 }
